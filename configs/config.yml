@@ -1,0 +1,14 @@
+redis:
+  endpoint: http://localhost:3600
+
+postgres:
+  endpoint: http://localhost:3636
+  dbname: test
+  user: test
+  password: test
+
+nats:
+  endpoint: http://localhost:3030
+
+clickhouse:
+  endpoint: http//localhost:3131
